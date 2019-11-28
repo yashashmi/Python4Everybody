@@ -12,4 +12,5 @@
 # print(y)
 
 print (ord('G'))
+print('42:', chr(42))
 print (chr(108), chr(105), chr(115), chr(116))
